@@ -2340,7 +2340,7 @@ let restaurants = null
 let wheelName = wheelNameEl.textContent
 
 // Resturants near Main St. Santa Monica, CA, USA
-const defaultRestaurants = ['Viagem', 'Absolut', 'Tanqueray', 'VIP AS', 'Panelas', `Acampa`, 'Paraquedas', 'Jantar']
+const defaultRestaurants = ['R$ 100,00', 'R$ 0,00', 'R$ 0,00', 'R$ 0,00', 'R$ 50,00', `R$ 20,00`, 'R$ 10,00', 'R$ 1,00']
 
 const localStorageKeySegments = 'lunchwheel:segments'
 const localStorageKeyWheelName = 'lunchwheel:name'
